@@ -1,0 +1,18 @@
+/* Admin.css */
+
+.custom-button {
+    background-color: rgb(136 195 68); /* Primary color for buttons */
+    border: none;
+    color: white;
+  }
+  
+  .custom-button:hover {
+    background-color: rgb(17 115 183) !important; /* Lighter color for hover */
+    color: white !important;
+  }
+  
+  .custom-button:active {
+    background-color:  rgb(17 115 183) !important; /* Darker color for active state */
+    color: white !important;
+  }
+  
